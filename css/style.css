@@ -1,0 +1,119 @@
+@font-face {
+	font-family: 'Venture';
+	src: url('../font/Venture-Regular.eot');
+	src: url('../font/Venture-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../font/Venture-Regular.woff') format('woff'),
+		url('../font/Venture-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body{
+
+height:100%;
+overflow-y: hidden;
+background-image: url(../img/bg.jpg);
+background-size: cover;
+    
+}
+
+.container{
+    
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+position: relative;
+height:100vh;
+line-height:100%;
+    
+}
+
+.EXPERIENCE{
+   
+font-size:2.5em;
+letter-spacing:10px;
+color: white;
+font-family: 'Venture';  
+    
+}
+
+.ISTHE{
+   
+font-size:1.3em;
+letter-spacing:10px;
+color: white;
+font-family: 'Venture';  
+    
+}
+
+.NAMEWEGIVE{
+   
+font-size:2.5em;
+letter-spacing:10px;
+color: white;
+font-family: 'Venture';  
+    
+}
+
+.TOOUR{
+   
+font-size:1.3em;
+letter-spacing:10px;
+color: white;
+font-family: 'Venture';  
+    
+}
+
+.MISTAKES{
+   
+font-size:2.5em;
+letter-spacing:10px;
+color: white;
+font-family: 'Venture'; 
+top:-15px;
+position: relative;
+    
+}
+
+.OSCARWILDE{
+   
+font-size:1em;
+letter-spacing:10px;
+color: white;
+font-family: 'Venture'; 
+word-spacing: 15px;
+top:-15px;
+position: relative;
+    
+}
+
+
+span{
+   
+font-size:1.2em;
+color: white;
+font-family: 'Venture';
+margin-left:20px;
+margin-right:20px;
+    
+}
+
+span1, span8{
+    
+font-size:2em;   
+    
+}
+
+span2, span7{
+    
+font-size:1.6em;   
+    
+}
+
+span3, span6{
+    
+font-size:1.3em;   
+    
+}
+
